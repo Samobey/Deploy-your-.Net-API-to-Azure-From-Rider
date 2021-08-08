@@ -5,4 +5,4 @@ For Creating your web app watch the Tim Cory tutorial. everyhing is easy to foll
 Signing in in Rider: 
 from the Azure explorer hit the sign-in button. Make sure to give it a time untill all the services and resources uploaded into the explorer. 
 
-![alt text](https://github.com/Samobey/Deploy-your-.Net-API-to-Azure-From-Rider/AzureExplorer.png?raw=true)
+![alt text](https://github.com/Samobey/Deploy-your-.Net-API-to-Azure-From-Rider/main/AzureExplorer.png?raw=true)
