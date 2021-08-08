@@ -10,3 +10,10 @@ How to host your Api project to Azure using Rider
 2. from your explorer Right-click -> Publich -> Azure. (if you dont see the Azure Option, then you need to refresh your Azure Explorer) Otherwise try Create new
  
  ![](./Azureoption.png )
+ 
+ 3. It is up to you if you want to select the Web app that you have Already created, or to create a new one. You can from this window also Check your Database Connection. the connection string should match your application connection string
+ 
+ ![](./Resource.png)
+
+# Problems with connecting to your SQL Azure from Web app.
+1. On Azure: Go to the Database Server -> FireWall -> Allow services to use the database -> give it a new Role and the new IP Address that you need to give it the permisson.
