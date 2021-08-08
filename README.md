@@ -7,6 +7,6 @@ How to host your Api project to Azure using Rider
 
 ![](./AzureExplorer.png?raw=true)
 
-2. from your explorer Right-click -> Publich -> Azure. (if you dont see the Azure Option, then you need to refresh your Azure Explorer)
+2. from your explorer Right-click -> Publich -> Azure. (if you dont see the Azure Option, then you need to refresh your Azure Explorer) Otherwise try Create new
  
  ![](./Azureoption.png )
